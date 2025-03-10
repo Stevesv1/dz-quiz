@@ -53,7 +53,6 @@ function shuffleArray(array) {
     }
     return shuffled;
 }
-
 function getRandomQuestions(questions, num) {
     const shuffled = [...questions].sort(() => 0.5 - Math.random());
     return shuffled.slice(0, num);
@@ -130,13 +129,12 @@ function showQuestion(index) {
 function calculateScore() {
     let score = 0;
     for (let i = 0; i < userAnswers.length; i++) {
-        if (userAnswers[i] === selectedQuestions[i].correct) score++;
+        if (userAnswers[i] === Number(selectedQuestions[i].correct)) score++;
     }
     quizContainer.style.display = 'none';
     resultContainer.style.display = 'block';
     scoreText.textContent = `You scored ${score} out of 10`;
 }
-
 
 function startQuiz() {
     if (allQuestions.length === 0) {
@@ -157,7 +155,7 @@ function startQuiz() {
 
 shareButton.addEventListener('click', () => {
     const score = scoreText.textContent.split(' ')[2];
-    const tweetText = `I scored ${score}/10 on the @DoubleZero quiz game, created by @Zun2025!\n\nDoubleZero learners, can you beat me?\n\nTry out this game: https://doublezero-quiz.vercel.app`;
+    const tweetText = `I scored ${score}/10 on the @DoubleZero quiz game, created by @Zun2025\n\nDoubleZero learners, can you beat me?\n\nTry out this game : https://doublezero-quiz.vercel.app`;
     const tweetUrl = `https://twitter.com/intent/tweet?text=${encodeURIComponent(tweetText)}`;
     window.open(tweetUrl, '_blank');
 });
