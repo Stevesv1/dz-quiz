@@ -110,46 +110,6 @@
     "correct": 1
   },
   {
-    "question": "What is an example of a security risk in blockchains?",
-    "choices": ["High fees", "Vulnerabilities in smart contracts", "Too many users", "Fast transactions"],
-    "correct": 1
-  },
-  {
-    "question": "What is centralization creep in blockchains?",
-    "choices": ["Too many users", "Control by a few big players", "Too much decentralization", "Low transaction fees"],
-    "correct": 1
-  },
-  {
-    "question": "Why do blockchain fees increase during high demand?",
-    "choices": ["To improve security", "Due to network congestion", "To limit users", "To speed up transactions"],
-    "correct": 1
-  },
-  {
-    "question": "What slows down blockchains like Ethereum?",
-    "choices": ["Too few transactions", "Limited transactions per second", "Excessive security", "Too many nodes"],
-    "correct": 1
-  },
-  {
-    "question": "What can hackers exploit in blockchains?",
-    "choices": ["High fees", "Smart contract bugs", "Fast speeds", "Decentralization"],
-    "correct": 1
-  },
-  {
-    "question": "What undermines blockchain decentralization?",
-    "choices": ["Too many contributors", "Wealth concentration in PoS systems", "High transaction speeds", "Open participation"],
-    "correct": 1
-  },
-  {
-    "question": "What caused the DAO hack on Ethereum?",
-    "choices": ["Too many transactions", "A smart contract vulnerability", "Centralization", "Low fees"],
-    "correct": 1
-  },
-  {
-    "question": "What is a scalability bottleneck example?",
-    "choices": ["CryptoKitties slowing Ethereum", "Bitcoin’s fast transactions", "Low fees on Solana", "Too many validators"],
-    "correct": 0
-  },
-  {
     "question": "How does DoubleZero help blockchain scalability?",
     "choices": ["By limiting users", "By providing a “fast lane” for data", "By increasing fees", "By reducing security"],
     "correct": 1
