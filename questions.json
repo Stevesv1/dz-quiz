@@ -1,0 +1,312 @@
+[
+  {
+    "question": "What is DoubleZero in simple explanation?",
+    "choices": ["A new blockchain", "A fast highway for blockchain data", "A type of cryptocurrency", "A centralized server"],
+    "correct": 1
+  },
+  {
+    "question": "Which one of them is not an investor in DoubleZero?",
+    "choices": ["YZI Labs (Binance Labs)", "Dragonfly", "Multicoin Capital", "GSR"],
+    "correct": 0
+  },
+  {
+    "question": "Who controls DoubleZero?",
+    "choices": ["A central company", "The government", "No single entity", "Blockchain founders"],
+    "correct": 2
+  },
+  {
+    "question": "What does DoubleZero do for blockchain data?",
+    "choices": ["Makes it slower", "Makes it more expensive", "Makes it faster and more reliable", "Stores it securely"],
+    "correct": 2
+  },
+  {
+    "question": "Which one is the legit link of DoubleZero website?",
+    "choices": ["https://doublezero.xyz", "https://doublezero.com", "https://doublezero.io", "https://doublezero.foundation"],
+    "correct": 0
+  },
+  {
+    "question": "What is the motto of DoubleZero?",
+    "choices": ["Reduce bandwidth, Increase Latency", "Enhance capacity, Boost speed", "Increase bandwidth, Lower costs", "None of the above"],
+    "correct": 3
+  },
+  {
+    "question": "Which one is the correct Twitter handle of DoubleZero?",
+    "choices": ["@doublezeroxyz", "@double_zero", "@doublezero", "@doublezerofdn"],
+    "correct": 2
+  },
+  {
+    "question": "What is DoubleZero’s main purpose?",
+    "choices": ["To create a new blockchain", "To help blockchains work better", "To replace the internet", "To mine cryptocurrency"],
+    "correct": 1
+  },
+  {
+    "question": "Who can contribute to DoubleZero?",
+    "choices": ["Only big corporations", "Anyone with extra bandwidth", "Only governments", "Only blockchain experts"],
+    "correct": 1
+  },
+  {
+    "question": "What kind of system is DoubleZero NOT?",
+    "choices": ["A blockchain", "A fast network", "A decentralized platform", "A permissionless system"],
+    "correct": 0
+  },
+  {
+    "question": "What is DoubleZero technically?",
+    "choices": ["A new blockchain", "A decentralized protocol and network", "A layer 2 solution", "A cryptocurrency"],
+    "correct": 1
+  },
+  {
+    "question": "What does \"N1\" stand for in DoubleZero?",
+    "choices": ["Network Layer 1", "New Internet", "Node 1", "Network Infrastructure"],
+    "correct": 0
+  },
+  {
+    "question": "What is the purpose of FPGA hardware in DoubleZero?",
+    "choices": ["Build inner ring consensus", "Prioritize outbound messages", "Optimize RPC node operations", "Mitigate DDoS attacks"],
+    "correct": 3
+  },
+  {
+    "question": "What is DoubleZero optimized for?",
+    "choices": ["Gaming", "Blockchain and distributed systems", "Social media", "Video streaming"],
+    "correct": 1
+  },
+  {
+    "question": "What is DoubleZero NOT?",
+    "choices": ["A blockchain", "A decentralized network", "A permissionless protocol", "A high-performance system"],
+    "correct": 0
+  },
+  {
+    "question": "Which of the following unit used to measure latency?",
+    "choices": ["Bytes", "Gigabytes (GB)", "Miliseconds (ms)", "Megabits per second (Mbps)"],
+    "correct": 2
+  },
+  {
+    "question": "What does \"permissionless\" mean for DoubleZero?",
+    "choices": ["You need approval to join", "Anyone can join without permission", "It’s controlled centrally", "Only experts can contribute"],
+    "correct": 1
+  },
+  {
+    "question": " What does GBps stand for in networking?",
+    "choices": ["Gigabits per second", "Gigahertz per second", "Gigapixels per second", "Gigabytes per second"],
+    "correct": 3
+  },
+  {
+    "question": "What is the core focus of the DoubleZero network?",
+    "choices": ["Wireless Network", "Satelite Communication", "Fibre-optic Technology", "Copper-based Technology"],
+    "correct": 2
+  },
+  {
+    "question": "What does DoubleZero provide for blockchain nodes?",
+    "choices": ["Slower communication", "Faster and more reliable communication", "Higher fees", "Less security"],
+    "correct": 1
+  },
+  {
+    "question": "What is a major problem blockchains face?",
+    "choices": ["Too much speed", "Scalability issues", "Too many users", "Lack of developers"],
+    "correct": 1
+  },
+  {
+    "question": "What happens when many people use a blockchain?",
+    "choices": ["It gets faster", "It gets slower and more expensive", "It shuts down", "It becomes more secure"],
+    "correct": 1
+  },
+  {
+    "question": "What is an example of a security risk in blockchains?",
+    "choices": ["High fees", "Vulnerabilities in smart contracts", "Too many users", "Fast transactions"],
+    "correct": 1
+  },
+  {
+    "question": "What is centralization creep in blockchains?",
+    "choices": ["Too many users", "Control by a few big players", "Too much decentralization", "Low transaction fees"],
+    "correct": 1
+  },
+  {
+    "question": "Why do blockchain fees increase during high demand?",
+    "choices": ["To improve security", "Due to network congestion", "To limit users", "To speed up transactions"],
+    "correct": 1
+  },
+  {
+    "question": "What slows down blockchains like Ethereum?",
+    "choices": ["Too few transactions", "Limited transactions per second", "Excessive security", "Too many nodes"],
+    "correct": 1
+  },
+  {
+    "question": "What can hackers exploit in blockchains?",
+    "choices": ["High fees", "Smart contract bugs", "Fast speeds", "Decentralization"],
+    "correct": 1
+  },
+  {
+    "question": "What undermines blockchain decentralization?",
+    "choices": ["Too many contributors", "Wealth concentration in PoS systems", "High transaction speeds", "Open participation"],
+    "correct": 1
+  },
+  {
+    "question": "What caused the DAO hack on Ethereum?",
+    "choices": ["Too many transactions", "A smart contract vulnerability", "Centralization", "Low fees"],
+    "correct": 1
+  },
+  {
+    "question": "What is a scalability bottleneck example?",
+    "choices": ["CryptoKitties slowing Ethereum", "Bitcoin’s fast transactions", "Low fees on Solana", "Too many validators"],
+    "correct": 0
+  },
+  {
+    "question": "How does DoubleZero help blockchain scalability?",
+    "choices": ["By limiting users", "By providing a “fast lane” for data", "By increasing fees", "By reducing security"],
+    "correct": 1
+  },
+  {
+    "question": "How does DoubleZero enhance security?",
+    "choices": ["By centralizing control", "By spreading work across many computers", "By reducing nodes", "By slowing transactions"],
+    "correct": 1
+  },
+  {
+    "question": "How does DoubleZero maintain decentralization?",
+    "choices": ["By restricting access", "By letting anyone contribute", "By centralizing power", "By requiring high fees"],
+    "correct": 1
+  },
+  {
+    "question": "What does DoubleZero offload from blockchains?",
+    "choices": ["Transactions only", "Heavy computational tasks", "User data storage", "Block validation"],
+    "correct": 1
+  },
+  {
+    "question": "What is a benefit of DoubleZero’s “fast lane”?",
+    "choices": ["Higher fees", "Faster and cheaper transactions", "Slower data", "Less reliability"],
+    "correct": 1
+  },
+  {
+    "question": "How does DoubleZero reduce blockchain congestion?",
+    "choices": ["By processing tasks on-chain", "By handling tasks off-chain", "By limiting contributors", "By increasing block size"],
+    "correct": 1
+  },
+  {
+    "question": "What makes DoubleZero harder to hack?",
+    "choices": ["Single point of failure", "Distributed nodes", "Centralized servers", "Fewer contributors"],
+    "correct": 1
+  },
+  {
+    "question": "Why is DoubleZero censorship-resistant?",
+    "choices": ["It’s controlled by one entity", "Anyone can join", "It uses slow networks", "It requires permission"],
+    "correct": 1
+  },
+  {
+    "question": "What is a technical benefit of DoubleZero?",
+    "choices": ["Lower throughput", "Higher effective TPS", "Increased fees", "Reduced decentralization"],
+    "correct": 1
+  },
+  {
+    "question": "How does DoubleZero differ from AWS?",
+    "choices": ["It’s centralized", "It’s decentralized and permissionless", "It’s slower", "It’s more expensive"],
+    "correct": 1
+  },
+  {
+    "question": "What task is offloaded to DoubleZero in the prediction market?",
+    "choices": ["Storing user data", "Running the AI model", "Processing transactions", "Validating blocks"],
+    "correct": 1
+  },
+  {
+    "question": "Why is running AI on-chain impractical?",
+    "choices": ["It’s too fast", "It’s slow and expensive", "It’s too secure", "It’s decentralized"],
+    "correct": 1
+  },
+  {
+    "question": "What does DoubleZero do in the prediction market?",
+    "choices": ["Stores predictions", "Runs AI off-chain", "Validates transactions", "Displays results"],
+    "correct": 1
+  },
+  {
+    "question": "What is recorded on the blockchain in the prediction market?",
+    "choices": ["All AI computations", "The final prediction result", "User identities", "All data points"],
+    "correct": 1
+  },
+  {
+    "question": "How does DoubleZero ensure prediction market security?",
+    "choices": ["Using a single server", "Distributing computations across nodes", "Limiting access", "Increasing fees"],
+    "correct": 1
+  },
+  {
+    "question": "What reduces costs in the prediction market?",
+    "choices": ["On-chain AI processing", "Recording only final results on-chain", "Higher gas fees", "Fewer nodes"],
+    "correct": 1
+  },
+  {
+    "question": "What does DoubleZero aggregate in the prediction market?",
+    "choices": ["User votes", "AI computation results", "Transaction fees", "Blockchain blocks"],
+    "correct": 1
+  },
+  {
+    "question": "Why is a centralized server risky in the prediction market?",
+    "choices": ["It’s too fast", "It can be hacked or manipulated", "It’s too secure", "It’s decentralized"],
+    "correct": 1
+  },
+  {
+    "question": "What type of task is AI computation in the prediction market?",
+    "choices": ["Lightweight", "Computationally intensive", "Storage-based", "Transactional"],
+    "correct": 1
+  },
+  {
+    "question": "How does DoubleZero improve prediction market efficiency?",
+    "choices": ["By slowing transactions", "By providing off-chain compute resources", "By increasing fees", "By centralizing control"],
+    "correct": 1
+  },
+  {
+    "question": "What is another potential use for DoubleZero?",
+    "choices": ["Social media", "Decentralized finance (DeFi)", "Video streaming", "Online shopping"],
+    "correct": 1
+  },
+  {
+    "question": "How does DoubleZero lower transaction costs?",
+    "choices": ["By increasing gas fees", "By reducing on-chain computations", "By limiting transactions", "By centralizing nodes"],
+    "correct": 1
+  },
+  {
+    "question": "What role do contributors play in DoubleZero?",
+    "choices": ["Mining cryptocurrency", "Providing bandwidth or compute power", "Validating transactions", "Writing smart contracts"],
+    "correct": 1
+  },
+  {
+    "question": "What aligns DoubleZero with blockchain ethos?",
+    "choices": ["Centralization", "Decentralization", "High fees", "Slow speeds"],
+    "correct": 1
+  },
+  {
+    "question": "What benefit does DoubleZero offer developers?",
+    "choices": ["Higher fees", "Faster, scalable apps", "More server management", "New programming languages"],
+    "correct": 1
+  },
+  {
+    "question": "What is the full form of IBRL in DoubleZero?",
+    "choices": ["Inter-Blockchain Relay Layer", "Increase Bandwidth, Reduce Latency", "Integrated Bandwidth and Reliability Layer", "Inter-Blockchain Relay Latency"],
+    "correct": 1
+  },
+  {
+    "question": "DoubleZero is ___ ?",
+    "choices": ["Layer 1 Blockchain", "Layer 2 Blockchain", "Both of the above", "None of the above"],
+    "correct": 3
+  },
+  {
+    "question": "What type of applications is DoubleZero designed to support?",
+    "choices": ["Centralized applications", "Decentralized applications", "Government applications", "Corporate applications"],
+    "correct": 1
+  },
+  {
+    "question": "Who can contribute unused bandwidth to DoubleZero?",
+    "choices": ["Only Solana Validators", "Only early adopters of DZ Discord", "Only Ethereum Stakers", "Anyone"],
+    "correct": 3
+  },
+  {
+    "question": "How much funding did DoubleZero Foundation raise till now?",
+    "choices": ["$20 million", "$28 million", "$40 million", "$50 million"],
+    "correct": 1
+  },
+  {
+    "question": "Which venture capital firms led the last funding round for DoubleZero Foundation?",
+    "choices": ["Andreessen Horowitz and Paradigm", "Sequoia Capital and Wintermute", "Dragonfly and Multicoin Capital", "Binance Labs and Coinbase Ventures"],
+    "correct": 2
+  },
+  {
+    "question": "What was the valuation of DZ Foundation in last funding round?",
+    "choices": ["$200M", "$300M", "$400M", "$500M"],
+    "correct": 2
+  }  
+]

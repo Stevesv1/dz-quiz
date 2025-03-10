@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DoubleZero Quiz</title>
+    <link href="https://fonts.googleapis.com/css2?family=Lexend:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" href="favicon.ico">
+</head>
+<body>
+    <div id="content-wrapper">
+        <div id="intro-container">
+            <h2>DoubleZero Quiz Rules</h2>
+            <p>You have 60 seconds to answer 10 questions. Each correct answer earns 1 point. Good luck!</p>
+            <button id="start-button">Start Quiz</button>
+        </div>
+        <div id="error-container" style="display: none;">
+            <h2>Access Restricted</h2>
+            <p>This quiz is only accessible on desktop devices or mobile devices with desktop mode enabled.</p>
+        </div>
+        <div id="quiz-container" style="display: none;">
+            <div id="timer">Time left: 60 seconds</div>
+            <p id="progress-text">Question 1 of 10</p>
+            <div id="question-choices-wrapper">
+                <p id="question-text"></p>
+                <div id="choices"></div>
+            </div>
+        </div>
+        <div id="result-container" style="display: none;">
+            <p id="score-text"></p>
+            <div id="button-wrapper">
+                <button id="share-button">Share on X</button>
+                <button id="replay-button">Replay</button>
+            </div>
+        </div>
+    </div>
+    <div id="footer">
+        Made with 🧡 by <strong><a href="https://x.com/Zun2025" target="_blank">Zun</a></strong> for <strong><a href="https://x.com/doublezero" target="_blank">DoubleZero</a></strong>
+    </div>
+    <audio id="correct-sound" src="correct.mp3" preload="auto"></audio>
+    <audio id="incorrect-sound" src="incorrect.mp3" preload="auto"></audio>
+    <script src="script.js"></script>
+</body>
+</html>
